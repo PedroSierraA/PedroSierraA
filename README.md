@@ -12,15 +12,10 @@ I'm a **Software Engineering student** at **Universidad EIA** with a growing foc
 ### Featured Projects 
 #### [DataEngineering](https://github.com/PedroSierraA/DataEngineering)
 Scrapping examples, ETL's, and VannaIA implementation 
-#### [AlgoritmosDeClasificacion](https://github.com/PedroSierraA/AlgoritmosDeClasificacion)
-Implementation and comparison of various classification algorithms for machine learning.
-#### [ClasificationModelDeployment](https://github.com/PedroSierraA/ClasificationModelDeployment)
-End-to-end machine learning model deployment showcasing practical AI applications.
+#### [AlgoritmosDeClasificacion](https://github.com/PedroSierraA/DataScience)
+Implementation and comparison of casification, aggregation and regresión models for real world problems
 #### [BusquedaTipoGoogleMaps](https://github.com/PedroSierraA/BusquedaTipoGoogleMaps)
-Google Maps-style search algorithm implementation with geospatial data processing
-#### [GroupingProblem](https://github.com/PedroSierraA/GroupingProblem)
-Optimization problem solving using data science approaches and algorithms.
+Google Maps-style search algorithms and data transformation for custom heurisics and map search
 #### [MarathonApi](https://github.com/PedroSierraA/MarathonApi)
-Python API for marathon data management and analysis.
-
+Python API for marathon data 
 ---
