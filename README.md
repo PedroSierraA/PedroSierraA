@@ -12,7 +12,7 @@ I'm a **Software Engineering student** at **Universidad EIA** with a growing foc
 ### Featured Projects 
 #### [DataEngineering](https://github.com/PedroSierraA/DataEngineering)
 Scrapping examples, ETL's, and VannaIA implementation 
-#### [AlgoritmosDeClasificacion](https://github.com/PedroSierraA/DataScience)
+#### [AlgoritmosDeMachineLearning](https://github.com/PedroSierraA/DataScience)
 Implementation and comparison of casification, aggregation and regresión models for real world problems
 #### [BusquedaTipoGoogleMaps](https://github.com/PedroSierraA/BusquedaTipoGoogleMaps)
 Google Maps-style search algorithms and data transformation for custom heurisics and map search
