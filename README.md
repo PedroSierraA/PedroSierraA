@@ -16,6 +16,7 @@ Scrapping examples, ETL's, and VannaIA implementation
 Implementation and comparison of casification, aggregation and regresión models for real world problems
 #### [BusquedaTipoGoogleMaps](https://github.com/PedroSierraA/BusquedaTipoGoogleMaps)
 Google Maps-style search algorithms and data transformation for custom heurisics and map search
-#### [MarathonApi](https://github.com/PedroSierraA/MarathonApi)
-Python API for marathon data 
+#### [MarathonApi](https://github.com/PedroSierraA/MarathonApi) 
+Python API for marathon data  
+
 ---
